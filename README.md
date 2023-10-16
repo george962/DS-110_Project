@@ -8,3 +8,5 @@ For our final, my team and I were tasked with finding a publicly available datas
 Visit the file **Code.ipynb** to take a look at our results!
 
 Read the Paper to view meaningful insights we found!
+
+In this project, I gained a better understanding of how to analayze a dataset with machine learning. The biggest challenge was the size of the dataset. This led to longer wait times to process the data. Overall, this was a great introduction project in getting me started with data science.
